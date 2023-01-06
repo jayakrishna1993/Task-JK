@@ -29,7 +29,4 @@ export default {
 .bg-dark {
   background: linear-gradient(to left, #009833, #0076c8);
 }
-.eli-text {
-  height: 60px;
-}
 </style>
