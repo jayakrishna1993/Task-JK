@@ -14,3 +14,4 @@ npm run serve
 4. KPI Growth is not implemented as it's optional.
 5. World population in Bn is random numner
 6. All the application is dynamic 
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/10151581/211059566-97423046-815b-4c05-8757-2bab47350098.png">
